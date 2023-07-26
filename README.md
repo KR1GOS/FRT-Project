@@ -44,9 +44,3 @@
 ## The result can only declared by the owner 
 ![Screenshot from 2022-09-11 16-22-58](https://user-images.githubusercontent.com/85225156/189523667-deee47da-c8b5-4008-8cd0-79866160a31d.png)
 
-
-https://user-images.githubusercontent.com/85225156/189525702-8e8c54c5-998c-425a-a915-b0824ec88cb8.mp4
-
-<br>
-
-If u like this repo  then  show some ❤️ by giving ⭐ to this  . 
